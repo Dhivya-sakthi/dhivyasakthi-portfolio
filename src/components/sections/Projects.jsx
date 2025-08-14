@@ -18,8 +18,8 @@ export const Projects = () => {
         "Designed and developed a personal portfolio using React.js, Tailwind CSS, and responsive design principles to showcase projects, skills, and experience, with integrated contact form",
       tech: ["React", "Tailwind CSS", "JavaScript"],
       image: portfolioImg,
-      liveDemo: "https://your-hospital-demo-link.com",
-      github: "https://github.com/yourusername/hospital-management",
+      liveDemo: "https://Dhivya-sakthi.github.io/dhivyasakthi-portfolio",
+      github: "https://github.com/Dhivya-sakthi/dhivyasakthi-portfolio.git",
     },
      {
       title: "ToDo List",
