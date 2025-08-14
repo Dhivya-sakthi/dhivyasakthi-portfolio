@@ -51,15 +51,7 @@ export const Projects = () => {
       github: "https://github.com/Dhivya-sakthi/Himalaya-webpage.git",
     },
     
-    // {
-    //   title: "E-Commerce Store",
-    //   description:
-    //     "A modern e-commerce platform built with Next.js, Tailwind CSS, and TypeScript, including product filtering, quick view, and responsive grid layouts.",
-    //   tech: ["Next.js", "Tailwind CSS", "TypeScript"],
-    //   image: "/images/ecommerce.png",
-    //   liveDemo: "https://your-ecommerce-demo-link.com",
-    //   github: "https://github.com/yourusername/ecommerce-store",
-    // },
+   
   ];
 
   return (
