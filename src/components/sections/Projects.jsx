@@ -1,10 +1,10 @@
 
 import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
-import himalayaImg from "../../assets/himalaya.png";
 import todolistImg from "../../assets/todolist.png";
 import portfolioImg from "../../assets/portfolio.png";
 import bookskyImg from "../../assets/booksky.png";
 import { RevealScroll } from "../RevealOnScroll";
+import weatherImg from "../../assets/weatherapp.png"
 
 
 
@@ -21,6 +21,15 @@ export const Projects = () => {
       liveDemo: "https://Dhivya-sakthi.github.io/dhivyasakthi-portfolio",
       github: "https://github.com/Dhivya-sakthi/dhivyasakthi-portfolio.git",
     },
+     {
+      title: "Weather App",
+      description:"Weather App built with React and CSS to check real-time weather and forecast for any city.",
+      tech: ["React+vite"],
+      image: weatherImg,
+      liveDemo: "https://dhivya-sakthi.github.io/weather-app/",
+      github: "https://github.com/Dhivya-sakthi/weather-app.git",
+    },
+    
      {
       title: "ToDo List",
       description:
@@ -41,16 +50,7 @@ export const Projects = () => {
     },
     
     
-    {
-      title: "Himalaya Ayurvedic Website",
-      description:
-        "A responsive Ayurvedic products website developed using HTML, CSS, Bootstrap, and JavaScript, focusing on clean design and user-friendly navigation.",
-      tech: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-      image: himalayaImg,
-      liveDemo: "https://your-himalaya-demo-link.com",
-      github: "https://github.com/Dhivya-sakthi/Himalaya-webpage.git",
-    },
-    
+   
    
   ];
 
